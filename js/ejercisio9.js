@@ -11,6 +11,6 @@ while (i<=frase.length)
             }
             i++;
 }
-document.write("ingreso la frase: " + frase + " <br> y tiene estas vocales:  " + vocales )
+document.write("ingreso la frase: " + frase + " <br> y tiene estas vocales:  " + vocales );
 
 

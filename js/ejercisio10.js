@@ -15,5 +15,5 @@ else if (numero % 7 === 0) {
     document.write("el numero ingresado si es divisible por 7");
 }
 else {
-    document.write ("el" + numero + "no es divisible ni por 2,3,5,7")
+    document.write ("el" + numero + "no es divisible ni por 2,3,5,7");
 }

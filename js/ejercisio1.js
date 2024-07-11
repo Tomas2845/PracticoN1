@@ -1,2 +1,2 @@
 
-alert("bienvenidos al primer practico de JS")
+alert("bienvenidos al primer practico de JS");

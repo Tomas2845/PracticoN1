@@ -1,3 +1,3 @@
-const nombreUsuario = prompt("ingrese su nombre de usuario")
+const nombreUsuario = prompt("ingrese su nombre de usuario");
 
-document.write(" hola " + nombreUsuario)
+document.write(" hola " + nombreUsuario);
